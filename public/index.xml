@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My First Post on My New Hugo Site</title>
+    <title>Welcome to JasPlay3D on JasPlay3D</title>
     <link>http://example.org/</link>
-    <description>Recent content in My First Post on My New Hugo Site</description>
+    <description>Recent content in Welcome to JasPlay3D on JasPlay3D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>My First Post This is some sample text to illustrate bold, italic, and regular text.
-Here&amp;rsquo;s an image:
-And here&amp;rsquo;s a video:
-Your browser does not support the video tag. </description>
-    </item>
-    
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'JasPlay3D'
 theme = "ananke"
 
 [markup.goldmark.renderer]
