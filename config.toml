@@ -1,7 +1,11 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'JasPlay3D'
 theme = "ananke"
+
+[params]
+hero = "/images/my-hero-image.jpg"
+
 
 [markup.goldmark.renderer]
   unsafe = true
