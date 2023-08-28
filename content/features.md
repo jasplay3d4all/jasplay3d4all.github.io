@@ -9,4 +9,7 @@ menu:
 ---
 {{< figure src="/images/large_pizza.png" title="**Scenario 1 - One Text Prompt to One Image:**" >}}
 
-Our AI Visual Treat! for the given **Prompt:** RAW photo, large size pan pizza,food photography, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT.
+Given Prompt:_RAW photo, large size pan pizza,food photography, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT_.
+**Our AI Visual Yummy PIZZA Treat!**
+
+{{< figure src="/images/twin1.png","/images/twin2.png" title="**Scenario 2 - One Text Prompt to distinct Images:**" >}}
