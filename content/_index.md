@@ -24,11 +24,15 @@ Every keystroke becomes a brushstroke, painting the canvas of imagination, and e
 
 Welcome to the realm where words not only speak but also sparkle with the brilliance of moving images, a place where storytelling reaches new heights through the alchemy of transforming words into stunning videos
 
-**Ideas to Images: Ignite Your Creativity!:**
+_**Ideas to Images: Ignite Your Creativity!:**_
 
-![Sample Image](/images/Desserts.png)
+![Sample Image](/images/Desserts1.png)
 
-_Awaken Your Words: Crafting Captivating Visuals Through AI Magic/Cultivating Creativity: From Textual Inspiration to Visual Exploration / Words Transformed: Unleash Creativity / Words to visual: Unleash Creativity / From Ideas to Images: Ignite Your Creativity! [ I to I ] / Empower Your Vision: Transforming Ideas into Striking Visuals!_
+Discover a world where your words come alive! 
+
+With our cutting-edge AI technology, transform your textual ideas into captivating visuals in just a few clicks. 
+Whether you're looking for a single image or exploring up to five distinct designs for your prompt, we've got you covered. 
+Dive into a seamless experience tailored to your creative vision.
 
 
 And here's a video:
