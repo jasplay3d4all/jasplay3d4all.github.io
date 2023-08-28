@@ -11,5 +11,5 @@ menu:
 Given Prompt:_RAW photo, large size pan pizza,food photography, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT_.
 **Our AI Visual Yummy PIZZA Treat!**
 
-![Sample Image](/images/twin1.png)![Sample Image](/images/twin2.png)![Sample Image](/images/twin3.png)![Sample Image](/images/twin4.png)![Sample Image](/images/twin5.png)
+![Sample Image](/images/twin1.png)![Sample Image](/images/twin2.png)![Sample Image](/images/twin3.png)![Sample Image](/images/twin4.png)!
 {{< figure src="" title="**Scenario 2 - One Text Prompt to distinct Images:**" >}}
