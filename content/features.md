@@ -7,6 +7,6 @@ menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/large_pizza.png" title="**Scenario 1 - One Text Prompt to One Image:**** Prompt:** RAW photo, large size pan pizza,food photography, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT" >}}
+{{< figure src="/images/large_pizza.png" title="**Scenario 1 - One Text Prompt to One Image:**" >}}
 
-Our AI Visual Treat!.
+Our AI Visual Treat! for the given **Prompt:** RAW photo, large size pan pizza,food photography, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT.
