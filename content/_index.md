@@ -2,9 +2,8 @@
 title: "JasPlay3D - Imagine! Verbalize! Visualise!"
 date: 2023-08-27
 ---
-
-                                                  # Words to Vision
-                              
+# Words to Vision
+                    
                                                       **Just..**
                                     _play with words, get vibrant virtual  videos!_
                                     
