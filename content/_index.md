@@ -34,7 +34,7 @@ Whether you're looking for a single image or exploring distinct designs for your
 
 Dive into a seamless experience tailored to your creative vision.
 
-**Prompt:** RAW photo, large size pan pizza,food photography, 8K <lora:foodphoto:0.8> foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT
+**Prompt:** RAW photo, large size pan pizza,food photography, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT
 
 **Our AI generated Visual Treat!**
 ![Sample Image](/images/large_pizza.png)
