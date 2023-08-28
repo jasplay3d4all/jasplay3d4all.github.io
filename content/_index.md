@@ -34,15 +34,15 @@ Whether you're looking for a single image or exploring up to five distinct desig
 
 Dive into a seamless experience tailored to your creative vision.
 
-**Here is the text prompt:**
-
-RAW photo, large size pan pizza,food photography, 8K<lora:foodphoto:0.8> foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT
+**Prompt:** RAW photo, large size pan pizza,food photography, 8K <lora:foodphoto:0.8> foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT
 
 **Our AI generated Visual Treat!**
 
 ![Sample Image](/images/large_pizza.png)
 
+**Single prompt and our 5 variants**
 
+![Sample Image](/images/twin1.png)![Sample Image](/images/twin2.png)![Sample Image](/images/twin3.png)![Sample Image](/images/twin4.png)![Sample Image](/images/twin5.png)
 
 And here's a video:
 
