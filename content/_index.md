@@ -1,17 +1,11 @@
 ---
 title: "JASPLAY3D"
-description: "Infinity & Beyond - Imagine! Verbalize! Visualise!
-                    
-**Just..**_play with words, get vibrant virtual  videos!_
-                                    
-**Just..**_play out your imagination,get stunning images !_
-                             
+description: "Infinity & Beyond - Imagine! Verbalize! Visualise!              
+**Just..**_play with words, get vibrant virtual  videos!_                                    
+**Just..**_play out your imagination,get stunning images !_                             
 **Imagine! Verbalize ! Visualise**
-
 Here and NOW
-
 **JASPLAY...just play !!**"
-
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/Desserts1.png'
