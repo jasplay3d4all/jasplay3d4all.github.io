@@ -1,7 +1,8 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+title: "Ideas to Images"
+description: "Discover a world where your words come alive! With our cutting-edge AI technology, transform your textual ideas into captivating visuals in just a few clicks.Whether you’re looking for a single image or exploring distinct designs for your prompt, we’ve got you covered.Dive into a seamless experience tailored to your creative vision."
+
+featured_image: '/images/large_pizza.png'
 menu:
   main:
     weight: 1
