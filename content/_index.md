@@ -1,5 +1,9 @@
 ---
-title: "JasPlay3D - Imagine! Verbalize! Visualise!"
+title: "JasPlay3D - Infinity & Beyond"
+description: "Imagine! Verbalize! Visualise!"
+theme_version: '2.8.2'
+cascade:
+  featured_image: '/images/Desserts1.png'
 date: 2023-08-27
 ---
 # Words to Vision
