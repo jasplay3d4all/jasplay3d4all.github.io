@@ -2,7 +2,7 @@
 title: "Ideas to Images"
 description: "Discover a world where your words come alive! With our cutting-edge AI technology, transform your textual ideas into captivating visuals in just a few clicks.Whether you’re looking for a single image or exploring distinct designs for your prompt, we’ve got you covered.Dive into a seamless experience tailored to your creative vision."
 
-featured_image: 'https://drive.google.com/file/d/1ytTRXE5zmwnJyAkhmubdymZwlA9fPEKG/view?usp=sharing'
+featured_image: <iframe width="560" height="315" src="https://drive.google.com/file/d/1ytTRXE5zmwnJyAkhmubdymZwlA9fPEKG/view?usp=sharing" title="googledriveimage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 menu:
   main:
     weight: 1
