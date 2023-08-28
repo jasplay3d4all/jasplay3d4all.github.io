@@ -30,19 +30,18 @@ Discover a world where your words come alive!
 
 With our cutting-edge AI technology, transform your textual ideas into captivating visuals in just a few clicks. 
 
-Whether you're looking for a single image or exploring up to five distinct designs for your prompt, we've got you covered. 
+Whether you're looking for a single image or exploring distinct designs for your prompt, we've got you covered. 
 
 Dive into a seamless experience tailored to your creative vision.
 
 **Prompt:** RAW photo, large size pan pizza,food photography, 8K <lora:foodphoto:0.8> foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT
 
 **Our AI generated Visual Treat!**
-
 ![Sample Image](/images/large_pizza.png)
 
-**Single prompt and our 5 variants**
+**One prompt and our distinct images**
 
-![Sample Image](/images/twin1.png)![Sample Image](/images/twin2.png)![Sample Image](/images/twin3.png)![Sample Image](/images/twin4.png)![Sample Image](/images/twin5.png)
+![Sample Image](/images/twin1.png)![Sample Image](/images/twin2.png)![Sample Image](/images/twin3.png)![Sample Image](/images/twin4.png)!
 
 And here's a video:
 
