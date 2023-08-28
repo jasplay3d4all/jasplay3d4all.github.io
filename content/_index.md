@@ -1,8 +1,8 @@
 ---
-![Sample Image](/images/Desserts1.png)
 title: "JasPlay3D - Imagine! Verbalize! Visualise!"
 date: 2023-08-27
 ---
+![Sample Image](/images/Desserts1.png)
 # Words to Vision
                     
 **Just..**
