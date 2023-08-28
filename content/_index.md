@@ -26,7 +26,7 @@ Welcome to the realm where words not only speak but also sparkle with the brilli
 
 **Ideas to Images: Ignite Your Creativity!:**
 
-![Sample Image](/images/sample-image.jpg)
+![Sample Image](/images/Desserts.png)
 
 _Awaken Your Words: Crafting Captivating Visuals Through AI Magic/Cultivating Creativity: From Textual Inspiration to Visual Exploration / Words Transformed: Unleash Creativity / Words to visual: Unleash Creativity / From Ideas to Images: Ignite Your Creativity! [ I to I ] / Empower Your Vision: Transforming Ideas into Striking Visuals!_
 
