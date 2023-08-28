@@ -4,7 +4,7 @@ title = 'JasPlay3D'
 theme = "ananke"
 
 [params]
-hero = "/images/my-hero-image.jpg"
+hero = "/images/Desserts1.png"
 
 
 [markup.goldmark.renderer]
