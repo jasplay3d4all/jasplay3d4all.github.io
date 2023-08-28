@@ -5,7 +5,7 @@ theme = "ananke"
 
 [params]
 hero = "/images/Desserts1.png"
-![Sample Image](/images/Desserts1.png)
+
 
 [markup.goldmark.renderer]
   unsafe = true
