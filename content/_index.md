@@ -26,13 +26,22 @@ Welcome to the realm where words not only speak but also sparkle with the brilli
 
 _**Ideas to Images: Ignite Your Creativity!:**_
 
-![Sample Image](/images/Desserts1.png)
-
 Discover a world where your words come alive! 
 
 With our cutting-edge AI technology, transform your textual ideas into captivating visuals in just a few clicks. 
+
 Whether you're looking for a single image or exploring up to five distinct designs for your prompt, we've got you covered. 
+
 Dive into a seamless experience tailored to your creative vision.
+
+**Here is the text prompt:**
+
+RAW photo, large size pan pizza,food photography, 8K<lora:foodphoto:0.8> foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT
+
+**Our AI generated Visual Treat!**
+
+![Sample Image](/images/large_pizza.png)
+
 
 
 And here's a video:
