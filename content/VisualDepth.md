@@ -8,8 +8,10 @@ menu:
 ---
 **Depth Effect: ZoomIn**
 
-<iframe width="560" height="315" src="https://youtu.be/jy8-S13GVmA"
- title="YouTube video player" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/youtu.be/jy8-S13GVmA" title="YouTube video player" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lOYBVGCj2ss?si=pnZYRwnqwN13ArNt" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Depth Effect: ZoomOut**
