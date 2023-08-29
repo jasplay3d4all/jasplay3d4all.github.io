@@ -1,7 +1,7 @@
 baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'JasPlay3D'
-theme = "ananke"
+theme = ["hugo-video", "ananke"]
 
 [params]
 hero = "/images/Desserts1.png"
