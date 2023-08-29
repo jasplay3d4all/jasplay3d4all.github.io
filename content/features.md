@@ -8,10 +8,10 @@ menu:
 ---
 **One Text Prompt to One Image:**
 Given Prompt:_RAW photo, large size pan pizza,food photography, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT_.
-
 {{< figure src="/images/large_pizza.png" title="Our Visual Yummy PIZZA Treat!" >}}
 
-**One Text distinct Images!**
+**One Text Prompt to distinct Image:**
+Given Prompt:_RAW photo, a portrait photo of twin sisters sitting in garden on a sunny day, wearing summer wear, dslr, soft lighting, high quality, film grain, Fujifilm XT_.
 
 ![Sample Image](/images/twin1.png)![Sample Image](/images/twin2.png)![Sample Image](/images/twin3.png)![Sample Image](/images/twin4.png)
 {{< figure src="" title="**Choose the best Image of your choice!**" >}}
