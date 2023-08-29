@@ -6,11 +6,13 @@ menu:
   main:
     weight: 0
 ---
-**One Text Prompt to One Image: Yummmy visual PIZZA treat!**
+**One Text Prompt to One Image: Our Yummmy visual PIZZA treat!**
 
 Given Prompt:_RAW photo, large size pan pizza,food photography, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT_.
 
-![Sample Image](/images/large_pizza.png)!
+![Sample Image](/images/large_pizza.png)
+
+
 
 
 
