@@ -14,5 +14,5 @@ Given Prompt:_RAW photo, large size pan pizza,food photography, 8K foodphoto, ds
 Given Prompt:_RAW photo, a portrait photo of twin sisters sitting in garden on a sunny day, wearing summer wear, dslr, soft lighting, high quality, film grain, Fujifilm XT_.
 
 ![Sample Image](/images/twin1.png)![Sample Image](/images/twin2.png)![Sample Image](/images/twin3.png)![Sample Image](/images/twin4.png)
-{{< figure src="" title="**Choose the best Image of your choice!**" >}}
+**Choose the best Image of your choice!**
 
