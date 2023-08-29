@@ -11,7 +11,7 @@ menu:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jy8-S13GVmA?si=pnZYRwnqwN13ArNt" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9jWeksrQb30=pnZYRwnqwN13ArNt" title="YouTube video player" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=9jWeksrQb30" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Depth Effect: ZoomOut**
