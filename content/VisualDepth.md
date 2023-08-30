@@ -10,23 +10,23 @@ menu:
 
 _Wise Elder Amidst the Woods: Navigating Life's Journey!_
 
-<iframe width="500" height="320" src="https://www.youtube.com/embed/jy8-S13GVmA?version=3&loop=1&playlist=jy8-S13GVmA" title="YouTube video player" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="500" height="320" src="https://www.youtube.com/embed/jy8-S13GVmA?version=3&loop=0&playlist=jy8-S13GVmA" title="YouTube video player" 
+frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 _Rainbow Wings Adorn the Verdant Boughs: Macaws Dance Amongst Leaves!_
 
-<iframe width="400" height="320" src="https://www.youtube.com/embed/9jWeksrQb30?version=3&loop=1&playlist=9jWeksrQb30" title="YouTube video player" 
+<iframe width="500" height="320" src="https://www.youtube.com/embed/9jWeksrQb30?version=3&loop=1&playlist=9jWeksrQb30" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Depth Effect: ZoomOut**
 
 _A Tale of Joy and Innocence!_
 
-<iframe width="400" height="320" src="https://www.youtube.com/embed/afnJ-XeuHfs?version=3&loop=1&playlist=afnJ-XeuHfs" title="YouTube video player" 
+<iframe width="500" height="320" src="https://www.youtube.com/embed/afnJ-XeuHfs?version=3&loop=1&playlist=afnJ-XeuHfs" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 _Sentinel of Liberty: Lady of Hope and Strength!_
 
-<iframe width="400" height="320" src="https://www.youtube.com/embed/GTBsF89BXg0?version=3&loop=1&playlist=GTBsF89BXg0" title="YouTube video player" 
+<iframe width="500" height="320" src="https://www.youtube.com/embed/GTBsF89BXg0?version=3&loop=1&playlist=GTBsF89BXg0" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
