@@ -10,7 +10,7 @@ menu:
 
 _Wise Elder Amidst the Woods: Navigating Life's Journey!_
 
-<iframe width="320" height="240" src="https://www.youtube.com/embed/jy8-S13GVmA?si=pnZYRwnqwN13ArNt" title="YouTube video player" 
+<iframe width="320" height="240" src="https://www.youtube.com/embed/jy8-S13GVmA?version=3&loop=1&playlist=jy8-S13GVmA" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
@@ -21,12 +21,12 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 
 **Depth Effect: ZoomOut**
 
-_A Tale of Joy and Innocence_
+_A Tale of Joy and Innocence!_
 
-<iframe width="320" height="240" src="https://www.youtube.com/embed/afnJ-XeuHfs?si=pnZYRwnqwN13ArNt" title="YouTube video player" 
+<iframe width="320" height="240" src="https://www.youtube.com/embed/afnJ-XeuHfs?version=3&loop=1&playlist=afnJ-XeuHfs" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-_Sentinel of Liberty: Lady of Hope and Strength_
+_Sentinel of Liberty: Lady of Hope and Strength!_
 
-<iframe width="320" height="240" src="https://www.youtube.com/embed/GTBsF89BXg0?si=pnZYRwnqwN13ArNt" title="YouTube video player" 
+<iframe width="320" height="240" src="https://www.youtube.com/embed/GTBsF89BXg0?version=3&loop=1&playlist=GTBsF89BXg0" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
