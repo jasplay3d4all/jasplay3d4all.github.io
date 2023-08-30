@@ -21,5 +21,12 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 
 **Depth Effect: ZoomOut**
 
+_A Tale of Joy and Innocence_
 
+<iframe width="320" height="240" src="https://www.youtube.com/embed/afnJ-XeuHfs?si=pnZYRwnqwN13ArNt" title="YouTube video player" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+_Sentinel of Liberty: Lady of Hope and Strength_
+
+<iframe width="320" height="240" src="https://www.youtube.com/embed/GTBsF89BXg0?si=pnZYRwnqwN13ArNt" title="YouTube video player" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
