@@ -4,7 +4,7 @@ description: "Infusing Your Vision with Dynamic Energy! Imagine taking your stat
 featured_image: '/images/Dalmation.png'
 menu:
   main:
-    weight: 0
+    weight: 1
 ---
 **Effect: PanRight**
 
@@ -16,11 +16,6 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 **Effect: PanLeft**
 
 _A Photographic Ode to Fresh Fruit Delights!_
-
-<iframe width="500" height="320" src="https://www.youtube.com/embed/afnJ-XeuHfs?version=3&loop=1&playlist=afnJ-XeuHfs" title="YouTube video player" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-_Sentinel of Liberty: Lady of Hope and Strength!_
 
 <iframe width="500" height="320" src="https://www.youtube.com/embed/b1XIUC8V1Dk?version=3&loop=1&playlist=b1XIUC8V1Dk" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
