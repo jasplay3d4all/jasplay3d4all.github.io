@@ -10,7 +10,7 @@ menu:
 
 _Wise Elder Amidst the Woods: Navigating Life's Journey!_
 
-<iframe width="400" height="320" src="https://www.youtube.com/embed/jy8-S13GVmA?version=3&loop=1&playlist=jy8-S13GVmA" title="YouTube video player" 
+<iframe width="500" height="320" src="https://www.youtube.com/embed/jy8-S13GVmA?version=3&loop=1&playlist=jy8-S13GVmA" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
