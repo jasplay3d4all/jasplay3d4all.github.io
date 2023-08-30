@@ -4,19 +4,19 @@ description: "Mastering Visual Depth: Digital Precision Unleashed! Step closer o
 featured_image: '/images/Parrot.png'
 menu:
   main:
-    weight: 1
+    weight: 0
 ---
 **Depth Effect: ZoomIn**
 
-Wise Elder Amidst the Woods: Navigating Life's Journey!
+_Wise Elder Amidst the Woods: Navigating Life's Journey!_
 
-<iframe width="200" height="200" src="https://www.youtube.com/embed/jy8-S13GVmA?si=pnZYRwnqwN13ArNt" title="YouTube video player" 
+<iframe width="320" height="240" src="https://www.youtube.com/embed/jy8-S13GVmA?si=pnZYRwnqwN13ArNt" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-Rainbow Wings Adorn the Verdant Boughs: Macaws Dance Amongst Leaves!
+_Rainbow Wings Adorn the Verdant Boughs: Macaws Dance Amongst Leaves!_
 
-<iframe width="200" height="200" src="https://www.youtube.com/embed/9jWeksrQb30?si=pnZYRwnqwN13ArNt" title="YouTube video player" 
+<iframe width="320" height="240" src="https://www.youtube.com/embed/9jWeksrQb30?si=pnZYRwnqwN13ArNt" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Depth Effect: ZoomOut**
