@@ -16,7 +16,7 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 
 _Rainbow Wings Adorn the Verdant Boughs: Macaws Dance Amongst Leaves!_
 
-<iframe width="320" height="240" src="https://www.youtube.com/embed/9jWeksrQb30?si=pnZYRwnqwN13ArNt" title="YouTube video player" 
+<iframe width="320" height="240" src="https://www.youtube.com/embed/9jWeksrQb30?si=9jWeksrQb30&loop=1" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Depth Effect: ZoomOut**
