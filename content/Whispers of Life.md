@@ -1,7 +1,7 @@
 ---
 title: "Whispers of Life"
 description: "Where Photos Find Voice and Story!"
-featured_image: '/images/Dalmation.png'
+featured_image: '/images/talking_head.png'
 menu:
   main:
     weight: 0
