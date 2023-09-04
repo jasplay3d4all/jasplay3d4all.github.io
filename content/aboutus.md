@@ -4,26 +4,28 @@ description: "Immerse yourself in the art of transformation as words come to lif
 featured_image: '/images/Dalmation.png'
 menu:
   main:
-    weight: 5
+    weight: 4
 ---
 
-Words to Vision!
+
+
+<iframe width="500" height="320" src="https://www.youtube.com/embed/nUGVuRiPQRY?version=3&loop=1&playlist=nUGVuRiPQRY" title="YouTube video player" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Words to Vision!**
 
 Just..play with words, get vibrant virtual videos!
 Just..play out your imagination,get stunning images !
 
-Imagine! Verbalize ! Visualise
+**Imagine! Verbalize ! Visualise**
 
 Here and NOW
 
-JASPLAY…just play !!"
+**JASPLAY…just play !!**
 
 Every keystroke becomes a brushstroke, painting the canvas of imagination, and every frame captures the essence of the narrative. It’s a journey where the power of language melds seamlessly with the allure of visuals, resulting in a mesmerizing fusion that transcends the ordinary.
 
 Welcome to the realm where words not only speak but also sparkle with the brilliance of moving images, a place where storytelling reaches new heights through the alchemy of transforming words into stunning videos!
 
-Clip that deccribes our features:
 
-<iframe width="500" height="320" src="https://www.youtube.com/embed/nUGVuRiPQRY?version=3&loop=1&playlist=nUGVuRiPQRY" title="YouTube video player" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
