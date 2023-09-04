@@ -4,7 +4,7 @@ description: "Immerse yourself in the art of transformation as words come to lif
 featured_image: '/images/Dalmation.png'
 menu:
   main:
-    weight: 4
+    weight: 1
 ---
 
 
