@@ -1,7 +1,7 @@
 ---
 title: "VisualAlchemy"
 description: "Blending Varied Images and Prompts!."
-featured_image: '/images/large_pizza.png'
+featured_image: '/images/girl_ordering_output.png'
 menu:
   main:
     weight: 0
