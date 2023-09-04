@@ -13,6 +13,8 @@ Ever thought of mixing up a sample image and text to create something amazing? W
 
 Given Prompt:_RAW photo, 25 y.0 young women ordering food on her mobile, cute smile looking at her phone, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT_.
 
+**+**
+
 ![Sample Image](/images/girl_ordering_sample.png)
 
 
