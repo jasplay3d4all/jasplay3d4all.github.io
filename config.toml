@@ -10,7 +10,7 @@ hero = "/images/Desserts1.png"
   unsafe = true
 
 [[params.ananke_socials]]
-name = "youutbe"
+name = "youtube"
 url = "https://www.youtube.com/channel/UCAa8ZTFcJoVtgrk2dEkAXSA"
 
 [[params.ananke_socials]]
