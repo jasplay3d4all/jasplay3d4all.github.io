@@ -1,11 +1,14 @@
 ---
 title: "DesignInMotion"
-description: "Infusing Your Vision with Dynamic Energy! Imagine taking your static image and setting it in motion. Hand it over, pick a direction, and watch as it gracefully slides left, right, top-left, or bottom-right. With four distinct direction controls, you're not just viewing an image; you're experiencing a journey. Bring your visuals to life with a hint of cinematic flair!"
+description: "Infusing Your Vision with Dynamic Energy! 
 featured_image: '/images/Dalmation.png'
 menu:
   main:
     weight: 0
 ---
+
+Imagine taking your static image and setting it in motion. Hand it over, pick a direction, and watch as it gracefully slides left, right, top-left, or bottom-right. With four distinct direction controls, you're not just viewing an image; you're experiencing a journey. Bring your visuals to life with a hint of cinematic flair!"
+
 **Effect: PanRight**
 
 _Spots of Joy: Dalmatian Puppies in Play!_
