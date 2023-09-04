@@ -4,7 +4,7 @@ description: "Mastering Visual Depth: Digital Precision Unleashed! Step closer o
 featured_image: '/images/Parrot.png'
 menu:
   main:
-    weight: 1
+    weight: 2
 ---
 **Depth Effect: ZoomIn**
 
