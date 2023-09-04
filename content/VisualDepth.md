@@ -1,11 +1,14 @@
 ---
 title: "VisualDepth"
-description: "Mastering Visual Depth: Digital Precision Unleashed! Step closer or take a step back, all with the magic of digital zoom! Give us your image and dive deep into its details or gracefully step back to appreciate the bigger picture. With customizable zoom options and pinpoint control over the focus area, you're the director of your visual narrative. Ready for your close-up?"
+description: "Mastering Visual Depth: Digital Precision Unleashed!"
 featured_image: '/images/Parrot.png'
 menu:
   main:
     weight: 0
 ---
+
+Step closer or take a step back, all with the magic of digital zoom! Give us your image and dive deep into its details or gracefully step back to appreciate the bigger picture. With customizable zoom options and pinpoint control over the focus area, you're the director of your visual narrative. Ready for your close-up?
+
 **Depth Effect: ZoomIn**
 
 _Wise Elder Amidst the Woods: Navigating Life's Journey!_
