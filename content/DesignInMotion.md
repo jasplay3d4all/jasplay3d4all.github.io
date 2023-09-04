@@ -4,7 +4,7 @@ description: "Infusing Your Vision with Dynamic Energy! Imagine taking your stat
 featured_image: '/images/Dalmation.png'
 menu:
   main:
-    weight: 2
+    weight: 0
 ---
 **Effect: PanRight**
 
