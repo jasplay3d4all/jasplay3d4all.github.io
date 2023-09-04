@@ -10,8 +10,12 @@ hero = "/images/Desserts1.png"
   unsafe = true
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+name = "youutbe"
+url = "https://www.youtube.com/channel/UCAa8ZTFcJoVtgrk2dEkAXSA"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/jasplay3d/"
 
 [[params.ananke_socials]]
 name = "facebook"
