@@ -4,7 +4,7 @@ description: "Discover a world where your words come alive! With our cutting-edg
 featured_image: '/images/large_pizza.png'
 menu:
   main:
-    weight: 1
+    weight: 0
 ---
 **One Text Prompt to One Image: Our Yummmy visual PIZZA treat!**
 
