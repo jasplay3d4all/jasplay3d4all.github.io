@@ -1,6 +1,6 @@
 ---
 title: "VisualAlchemy"
-description: "Blending Varied Images and Prompts!."
+description: "Blending Varied Images and Prompts!"
 featured_image: '/images/girl_ordering_output.png'
 menu:
   main:
