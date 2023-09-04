@@ -12,3 +12,5 @@ hero = "/images/Desserts1.png"
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/GoHugoIO"
+name = "youtube"
+url = "https://www.youtube.com/channel/UCAa8ZTFcJoVtgrk2dEkAXSA"
