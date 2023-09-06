@@ -11,7 +11,7 @@ hero = "/images/Desserts1.png"
   unsafe = true
   
 [params]
-  site_logo = "logo1_jasPlay3d_white.svg"
+  site_logo = "img/logo1_jasPlay3d_white.png"
 
   [params]
   text_color = "gold"
