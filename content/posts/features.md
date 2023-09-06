@@ -1,7 +1,5 @@
 ---
 title: "My Draft Post"
-date: 1970-01-01
-url: /my draft-post/
+date: 2023-09-06
 draft: true
---
-my content
+---
