@@ -5,7 +5,7 @@ theme = "ananke"
 
 [params]
   hero = "/images/Desserts1.png"
-  text_color = ""
+  text_color = "gold"
   author = ""
   favicon = ""
   site_logo = ""
