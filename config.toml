@@ -11,7 +11,7 @@ hero = "/images/Desserts1.png"
   unsafe = true
 
 [params]
-  text_color = "gold"
+  site_logo = "images/logo1_jasPlay3d_white.png"
 
 [[params.ananke_socials]]
 name = "youtube"
