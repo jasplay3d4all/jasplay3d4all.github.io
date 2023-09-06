@@ -9,11 +9,8 @@ hero = "/images/Desserts1.png"
 
 [markup.goldmark.renderer]
   unsafe = true
-  
-[params]
-  site_logo = "images/logo1_jasPlay3d_white.png"
 
-  [params]
+[params]
   text_color = "gold"
 
 [[params.ananke_socials]]
