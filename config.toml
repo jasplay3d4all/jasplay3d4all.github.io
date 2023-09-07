@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'JasPlay3D'
 theme = "ananke"
 
+SectionPagesMenu = "main"
+
 [params]
   hero = "/images/Desserts1.png"
   text_color = "black"
