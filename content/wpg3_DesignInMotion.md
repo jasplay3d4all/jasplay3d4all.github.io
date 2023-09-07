@@ -1,10 +1,10 @@
 ---
-title: "DesignInMotion"
-description: "Infusing Your Vision with Dynamic Energy!"
+title: "DIM"
+description: "Design In Motion : Infusing Your Vision with Dynamic Energy!"
 featured_image: '/images/Dalmation.png'
 menu:
   main:
-    weight: 0
+    weight: 30
 ---
 Imagine taking your static image and setting it in motion. Hand it over, pick a direction, and watch as it gracefully slides left, right, top-left, or bottom-right. With four distinct direction controls, you're not just viewing an image; you're experiencing a journey. Bring your visuals to life with a hint of cinematic flair!
 
