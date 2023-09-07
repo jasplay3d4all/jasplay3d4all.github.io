@@ -11,4 +11,4 @@ menu:
 
 {{< form-contact action="https://example.com"  >}}
 
-Mail us @ jasplay3d4all@gmai.com
+Mail us @ jasplay3d4all@gmail.com
