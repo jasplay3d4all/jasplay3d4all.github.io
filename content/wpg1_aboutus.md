@@ -1,6 +1,7 @@
 ---
 title: "What We Do"
 description: "Words to Vision!"
+omit_header_text: true
 featured_image: '/images/Desserts1.png'
 menu:
   main:
