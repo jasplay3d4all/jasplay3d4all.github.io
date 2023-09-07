@@ -1,10 +1,10 @@
 ---
-title: "Whispers of Life"
-description: "Where Photos Find Voice and Story!"
+title: "WOL"
+description: "Whispers of Life : Where Photos Find Voice and Story!"
 featured_image: '/images/talking_head.png'
 menu:
   main:
-    weight: 0
+    weight: 60
 ---
 
 Ever wished your still photos could chat back? Hand us a picture and a voice prompt, and watch as your image turns into a chatty companion! With precision and flair, we'll make your stills spill the beans or sing a tune. Give voice to your visuals and let the conversation begin!
