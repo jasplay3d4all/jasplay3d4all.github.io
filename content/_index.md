@@ -7,4 +7,15 @@ cascade:
 date: 2023-08-27
 ---
 
+**Words to Vision!**
+
+Just..play with words, get vibrant virtual videos!
+
+Just..play out your imagination,get stunning images !
+
+**Imagine! Verbalize ! Visualise**
+
+Here and NOW
+
+**JASPLAY…just play !!**
 
