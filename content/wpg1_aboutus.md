@@ -1,7 +1,6 @@
 ---
 title: "What We Do"
-description: "Words to Vision!"
-omit_header_text: true
+description: "Jasplay3D....Just Play!"
 featured_image: '/images/Desserts1.png'
 menu:
   main:
