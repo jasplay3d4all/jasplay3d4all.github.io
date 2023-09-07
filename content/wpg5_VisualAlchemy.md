@@ -1,10 +1,10 @@
 ---
-title: "VisualAlchemy"
-description: "Blending Varied Images and Prompts!"
+title: "VA"
+description: "Visual Alchemy : Blending Varied Images and Prompts!"
 featured_image: '/images/girl_ordering_output.png'
 menu:
   main:
-    weight: 0
+    weight: 50
 ---
 
 Ever thought of mixing up a sample image and text to create something amazing? We did! Just provide your ingredients, and let us serve up six different flavors of stunning visuals. It's your creative recipe, but with a twist each time. Ready to taste the magic?
