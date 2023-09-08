@@ -6,7 +6,7 @@ description: We'd love to hear from you
 type: page
 menu:
   main:
-    weight: 100
+    weight: 110
 ---
 
 {{< form-contact action="https://example.com"  >}}
