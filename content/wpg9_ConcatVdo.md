@@ -1,5 +1,5 @@
 ---
-title: "CIC"
+title: "CCM"
 description: " Clips to Cinematic Magic: Crafting Your Epic Montage!"
 featured_image: ''
 menu:
