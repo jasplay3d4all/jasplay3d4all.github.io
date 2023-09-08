@@ -1,11 +1,13 @@
 ---
-title: "What We Do"
+title: "WatVDo"
 description: "Jasplay3D....Just Play!"
-featured_image: '/images/Desserts1.png'
+featured_image: ''
 menu:
   main:
     weight: 10
 ---
+
+**Wat V Do : Jasplay3D....Just Play!**
 
 Immerse yourself in the art of transformation as words come to life, evolving from mere text into captivating visuals that tell compelling stories. With the magic touch of creativity and technology, the process unfolds like a symphony, where letters dance and sentences unfurl, gradually giving birth to stunning videos that enchant, educate, and entertain
 
