@@ -1,13 +1,18 @@
 ---
 title: "PIP"
 description: " Visual Blend: Elevate Your Video with Embedded Imagery!"
-featured_image: ' '
+featured_image: ''
 menu:
   main:
     weight: 80
 ---
 
-Picture-in-picture, anyone? Ever wanted a little visual cameo within your video? Give us your video and image, and we'll tastefully tuck that photo into any corner you fancy. It's like giving your video a stylish pocket square or a chic accessory. Let's make your video pop!
+**Visual Blend: Elevate Your Video with Embedded Imagery!**
+
+Picture-in-picture, anyone?  Ever wanted a little visual cameo within your video?
+
+Give us your video and image, and we'll tastefully tuck that photo into any corner you fancy. 
+It's like giving your video a stylish pocket square or a chic accessory. Let's make your video pop!
 
 **Elevate Video: Seamlessly Blend Imagery!**
 
