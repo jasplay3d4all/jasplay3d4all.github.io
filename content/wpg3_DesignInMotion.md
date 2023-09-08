@@ -1,7 +1,7 @@
 ---
 title: "DIM"
 description: "Design In Motion : Infusing Your Vision with Dynamic Energy!"
-featured_image: ''
+featured_image: '/images/Coffee.png'
 menu:
   main:
     weight: 30
