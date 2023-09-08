@@ -1,7 +1,7 @@
 ---
 title: "I2I"
 description: "Ideas to Images : Discover a world where your words come alive!"
-featured_image: ''
+featured_image: '/images/large_pizza.png'
 menu:
   main:
     weight: 20
