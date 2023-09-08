@@ -1,6 +1,6 @@
 ---
 title: "PIP"
-description: " Visual Blend: Elevate Your Video with Embedded Imageryh"
+description: " Visual Blend: Elevate Your Video with Embedded Imagery!"
 featured_image: ' '
 menu:
   main:
