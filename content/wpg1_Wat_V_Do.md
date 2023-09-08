@@ -19,25 +19,25 @@ Every keystroke becomes a brushstroke, painting the canvas of imagination, and e
 
 Welcome to the realm where words not only speak but also sparkle with the brilliance of moving images, a place where storytelling reaches new heights through the alchemy of transforming words into stunning videos!
 
-**Features of JASPLAY3D:**
+**Features of JASPLAY3D: In Simple words**
 
-**I2I**  : _Ideas to Images : Discover a world where your words come alive!_
+**I2I**  : _Ideas to Images : Text to Image_
 
-**DIM**  : _Design In Motion : Infusing Your Vision with Dynamic Energy!_
+**DIM**  : _Design In Motion : Moving the image created various directions_
 
-**VDE**  : _Visual Depth Effect : Mastering Visual Depth: Digital Precision Unleashed!_
+**VDE**  : _Visual Depth Effect : Zoom in and out effects_
 
-**VA**   : _Visual Alchemy : Blending Varied Images and Prompts!_
+**VA**   : _Visual Alchemy : Given an image and text prompt and wait for the merged output_
 
-**WOL**  : _Whispers of Life : Where Photos Find Voice and Story!_
+**WOL**  : _Whispers of Life : Talking AI models_
 
-**VS**   : _Visual Symphony: Adding Vibrancy and Depth to Your Creations!_
+**VS**   : _Visual Symphony: Adding back ground music and voice to the video_
 
-**PIP**  : _Visual Blend: Elevate Your Video with Embedded Imagery!_
+**PIP**  : _Visual Blend: Embedding image withing the generated video_
 
-**CCM**  : _Clips to Cinematic Magic: Crafting Your Epic Montage!_
+**CCM**  : _Clips to Cinematic Magic: Generating mutliple videos and sticting them together_
 
-**MOI**  : _Images and Ideas Converge: The Magic of Inpainting!_
+**MOI**  : _The Magic of Inpainting : The Art of Filling in the Gaps_
 
 _More to come...._
 
