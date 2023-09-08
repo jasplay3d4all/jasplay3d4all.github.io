@@ -7,6 +7,8 @@ menu:
     weight: 90
 ---
 
+Clips to Cinematic Magic: Crafting Your Epic Montage!
+
 Why settle for one clip when you can have an epic montage?
 
 Hand over your collection of videos, and watch as we weave them seamlessly into a single cinematic masterpiece. 
