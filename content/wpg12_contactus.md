@@ -1,7 +1,6 @@
 ---
 title: Contact Us
 featured_image: '/images/girl_ordering_output.png'
-omit_header_text: false
 description: We'd love to hear from you
 type: page
 menu:
