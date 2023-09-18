@@ -1,6 +1,6 @@
 ---
 title: "JASPLAY3D"
-description: "Infinity & Beyond - Imagine! Verbalize! Visualise!"
+description: "Infinity & Beyond - Imagine! Verbalize! Visualise! - ALL IN ONE"
 theme_version: '2.8.2'
 cascade:
  featured_image: '/images/milkshake.png'
