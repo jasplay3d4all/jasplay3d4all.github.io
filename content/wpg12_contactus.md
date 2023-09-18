@@ -7,7 +7,7 @@ menu:
   main:
     weight: 120
 ---
-
+![Sample Image](/images/large_pizza.png)
 **Mail us** @ jasplay3d4all@gmail.com
 
 **Contact us @**
