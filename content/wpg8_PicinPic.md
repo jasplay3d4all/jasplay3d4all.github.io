@@ -1,7 +1,7 @@
 ---
 title: "PIP"
 description: " Visual Blend: Elevate Your Video with Embedded Imagery!"
-featured_image: ''
+featured_image: '/images/kittens.png'
 menu:
   main:
     weight: 80
