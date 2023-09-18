@@ -1,5 +1,5 @@
 ---
-title: ToConnect
+title: Connect
 featured_image: '/images/girl_ordering_output.png'
 description: We'd love to hear from you!
 type: page
