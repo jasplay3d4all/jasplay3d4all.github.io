@@ -1,6 +1,6 @@
 ---
-title: "MOI"
-description: "  Images and Ideas Converge: The Magic of Inpainting!"
+title: "DA"
+description: "Digital Artistry:Elevating Images with Artful Precision!"
 featured_image: ''
 menu:
   main:
