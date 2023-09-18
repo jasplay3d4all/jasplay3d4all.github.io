@@ -6,7 +6,7 @@ description: We'd love to hear from you
 type: page
 menu:
   main:
-    weight: 110
+    weight: 120
 ---
 
 **Mail us** @ jasplay3d4all@gmail.com
