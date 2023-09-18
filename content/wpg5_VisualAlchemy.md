@@ -1,7 +1,7 @@
 ---
 title: "VA"
 description: "Visual Alchemy : Blending Varied Images and Prompts!"
-featured_image: '/images/girl_ordering_output.png'
+featured_image: '/images/korean_girl_traditional_attire.png'
 menu:
   main:
     weight: 50
@@ -11,7 +11,7 @@ Ever thought of mixing up a sample image and text to create something amazing? W
 
 **Input: Prompt + Picture**
 
-Given Prompt:_RAW photo, young girl in Indian attire,looking at her phone, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT_.
+Given Prompt:_RAW photo, young girl in traditional attire,looking at me, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT_.
 
 **+**
 
