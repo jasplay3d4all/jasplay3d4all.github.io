@@ -11,7 +11,7 @@ Ever thought of mixing up a sample image and text to create something amazing? W
 
 **Input: Prompt + Picture**
 
-Given Prompt:_RAW photo, young girl in traditional attire,looking at me, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT_.
+Given Prompt:_RAW photo, young girl in traditional thai costume,looking at me, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT_.
 
 **+**
 
