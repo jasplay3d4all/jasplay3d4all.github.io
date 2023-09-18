@@ -11,11 +11,11 @@ Ever thought of mixing up a sample image and text to create something amazing? W
 
 **Input: Prompt + Picture**
 
-Given Prompt:_RAW photo, 25 y.0 young women ordering food on her mobile, cute smile looking at her phone, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT_.
+Given Prompt:_RAW photo, young girl in Indian attire,looking at her phone, 8K foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT_.
 
 **+**
 
-![Sample Image](/images/girl_ordering_sample.png)
+![Sample Image](/images/korean_girl_paint_brush.png)
 
 
 
@@ -24,5 +24,5 @@ Given Prompt:_RAW photo, 25 y.0 young women ordering food on her mobile, cute sm
 **JasPlay3D's Visual Alchemy!**
 
 
-![Sample Image](/images/girl_ordering_output.png)
+![Sample Image](/images/korean_girl_traditional_attire.png)
 
