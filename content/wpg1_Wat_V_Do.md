@@ -1,7 +1,7 @@
 ---
 title: "Wat V Do"
 description: "Jasplay3D....Just Play!"
-featured_image: ''
+featured_image: '/images/baby_eating.png'
 menu:
   main:
     weight: 10
