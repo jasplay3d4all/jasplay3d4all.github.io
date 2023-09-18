@@ -4,7 +4,7 @@ description: "T2M & W2V"
 featured_image: ''
 menu:
   main:
-    weight: 100
+    weight: 110
 ---
 
 **Harmonizing Words:Text to Music [ T2M ]!**
