@@ -37,7 +37,7 @@ Welcome to the realm where words not only speak but also sparkle with the brilli
 
 **CCM**  : _Clips to Cinematic Magic: Generating mutliple videos and sticting them together_
 
-**MOI**  : _The Magic of Inpainting : The Art of Filling in the Gaps_
+**DA**  : _Digital Artistry: Elevating Images with Artful Precision_
 
 _More to come...._
 
