@@ -8,6 +8,4 @@ menu:
     weight: 120
 ---
 
-**E-Mail Us @**_jasplay3d4all@gmail.com_
-
-**Call or WA Us @**  **USA:** _(001) 509-339-4368_ / **IND:** _(91) 7022617815_
+**Call or WA @** **USA:** _(001) 509-339-4368_ / **IND:** _(91) 7022617815_                                                                                                                                                                                                                                                                 **E-Mail Us @** _jasplay3d4all@gmail.com_
