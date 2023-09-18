@@ -1,5 +1,5 @@
 ---
-title: ContactUs
+title: Contact Us
 featured_image: ''
 omit_header_text: true
 description: We'd love to hear from you
@@ -9,8 +9,9 @@ menu:
     weight: 110
 ---
 
-Mail us @ jasplay3d4all@gmail.com
+**Mail us** @ jasplay3d4all@gmail.com
 
-Contact us @ 
-  US: (001) 509-339-4368
+**Contact us @**
+
+  USA: (001) 509-339-4368
   IN: (91) 7022617815
