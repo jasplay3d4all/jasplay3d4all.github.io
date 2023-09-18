@@ -9,6 +9,8 @@ menu:
     weight: 110
 ---
 
-{{< form-contact action="https://example.com"  >}}
-
 Mail us @ jasplay3d4all@gmail.com
+
+Contact us @ 
+  US: (001) 509-339-4368
+  IN: (91) 7022617815
