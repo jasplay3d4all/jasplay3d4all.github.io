@@ -14,11 +14,11 @@ Just play with words, get
 
 Just play out                                                                                                                                                     
     your imagination, get                                                                                                                                     
-    stunning images !
+    stunning images!
 
 **Imagine..                                                                                                                                                   
-  Verbalize..                                                                                                                                                         
-  Visualise...Here and NOW**
+  Verbalize..                                                                                                                                         
+     Visualise..**Here and NOW
 
 **JASPLAY3D…just play !!**
 
