@@ -14,7 +14,7 @@ Just play with words, get
 
 Just play out                                                                                                                                                     
    your imagination, get                                                                                                                                     
-    stunning images!                                                                                                                                         
+   stunning images!                                                                                                                                         
                                                                                                                                                              
 **Imagine..                                                                                                                                                   
 Verbalize..                                                                                                                                              
