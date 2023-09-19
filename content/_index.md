@@ -18,7 +18,7 @@ Just play out
                                                                                                                                                              
 **Imagine..                                                                                                                                                   
 Verbalize..                                                                                                                                              
-Visualise..** here and NOW
+     Visualise..** here and NOW
 
 **JASPLAY3D…just play !!**
 
