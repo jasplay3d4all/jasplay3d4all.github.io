@@ -1,7 +1,7 @@
 ---
 title: "Add-On"
 description: "T2M & W2V"
-featured_image: ''
+featured_image: '/images/jass.png'
 menu:
   main:
     weight: 110
