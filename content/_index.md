@@ -17,7 +17,7 @@ Just play out
     stunning images!                                                                                                                                         
                                                                                                                                                              
 **Imagine..                                                                                                                                                   
-Verbalize..                                                                                                                                         
+Verbalize..                                                                                                                                              
 Visualise..** here and NOW
 
 **JASPLAY3D…just play !!**
