@@ -16,7 +16,7 @@ It's like giving your video a stylish pocket square or a chic accessory. Let's m
 
 **Elevate Video: Seamlessly Blend Imagery!**
 
-Here you go...Our Jasplay3D logo blended with video "Kittens in the Garden: A Picture of Pure Charm"
+Our **Jasplay3D logo** blended with **Kittens in the Garden** video
 
 <iframe width="500" height="320" src="https://www.youtube.com/embed/oOPDdfoclUs?version=3&loop=1&playlist=oOPDdfoclUs" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
