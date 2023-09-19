@@ -10,15 +10,15 @@ date: 2023-08-27
 **Words to Visuals!**
 
 Just play with words, get                                                                                                                                      
-    vibrant virtual videos!
+   vibrant virtual videos!
 
 Just play out                                                                                                                                                     
-    your imagination, get                                                                                                                                     
-    stunning images!
-
+   your imagination, get                                                                                                                                     
+    stunning images!                                                                                                                                         
+                                                                                                                                                             
 **Imagine..                                                                                                                                                   
-  Verbalize..                                                                                                                                         
-  Visualise..** here and NOW
+Verbalize..                                                                                                                                         
+Visualise..** here and NOW
 
 **JASPLAY3D…just play !!**
 
