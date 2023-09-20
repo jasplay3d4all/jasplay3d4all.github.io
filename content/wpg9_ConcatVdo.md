@@ -1,7 +1,7 @@
 ---
 title: "CCM"
 description: " Clips to Cinematic Magic: Crafting Your Epic Montage!"
-featured_image: ''
+featured_image: '/images/dogs_cats_lovers.png'
 menu:
   main:
     weight: 90
