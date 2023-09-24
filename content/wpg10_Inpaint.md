@@ -1,5 +1,6 @@
 ---
-title: "DA"
+title: "My Draft Post"
+draft: true
 description: "Digital Artistry:Elevating Images with Artful Precision!"
 featured_image: ''
 menu:
