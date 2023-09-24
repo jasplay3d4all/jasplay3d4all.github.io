@@ -37,7 +37,7 @@ Welcome to the realm where words not only speak but also sparkle with the brilli
 
 **CCM**  : _Clips to Cinematic Magic: Generating mutliple videos and sticting them together_
 
-**DA**  : _Digital Artistry: Elevating Images with Artful Precision_
+**Add-On**  : _Harmonizing Words:Text to Music! [ T2M ] & Words into Voice: The Magic of Text to Speech! [ W2V ]_
 
 _More to come...._
 
