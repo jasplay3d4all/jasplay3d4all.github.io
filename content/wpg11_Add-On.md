@@ -24,6 +24,6 @@ It's the art of turning written expressions into an enchanting auditory journey,
 
 **_Here is the clip of our Words to Voice merged with our AI Model:_**
 
-<iframe width="500" height="320" src="https://www.youtube.com/embed/tc583TsnJQIGmlnt?version=3&loop=1&playlist=tc583TsnJQIGmlnt" title="YouTube video player" 
+<iframe width="500" height="320" src="https://www.youtube.com/embed/u8N_0nOzKf8?si?version=3&loop=1&playlist=u8N_0nOzKf8?si" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
